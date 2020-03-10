@@ -1,0 +1,13 @@
+.DS_Store
+/bin/
+build
+.settings
+.project
+.classpath
+.gradle
+artifactory-auth.properties
+src/jpaModelgen/
+.idea
+*.iml
+
+\.checkstyle
